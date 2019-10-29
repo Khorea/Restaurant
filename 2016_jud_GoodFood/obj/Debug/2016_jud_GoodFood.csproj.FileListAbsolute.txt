@@ -1,0 +1,49 @@
+c:\users\chosen\documents\visual studio 2015\Projects\2016_jud_GoodFood\2016_jud_GoodFood\bin\Debug\2016_jud_GoodFood.exe.config
+c:\users\chosen\documents\visual studio 2015\Projects\2016_jud_GoodFood\2016_jud_GoodFood\bin\Debug\GOOD_FOOD.mdf
+c:\users\chosen\documents\visual studio 2015\Projects\2016_jud_GoodFood\2016_jud_GoodFood\bin\Debug\GOOD_FOOD_log.ldf
+c:\users\chosen\documents\visual studio 2015\Projects\2016_jud_GoodFood\2016_jud_GoodFood\bin\Debug\2016_jud_GoodFood.exe
+c:\users\chosen\documents\visual studio 2015\Projects\2016_jud_GoodFood\2016_jud_GoodFood\bin\Debug\2016_jud_GoodFood.pdb
+c:\users\chosen\documents\visual studio 2015\Projects\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\2016_jud_GoodFood.csprojResolveAssemblyReference.cache
+c:\users\chosen\documents\visual studio 2015\Projects\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\_2016_jud_GoodFood.startForm.resources
+c:\users\chosen\documents\visual studio 2015\Projects\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\_2016_jud_GoodFood.Properties.Resources.resources
+c:\users\chosen\documents\visual studio 2015\Projects\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\2016_jud_GoodFood.csproj.GenerateResource.Cache
+c:\users\chosen\documents\visual studio 2015\Projects\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\2016_jud_GoodFood.exe
+c:\users\chosen\documents\visual studio 2015\Projects\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\2016_jud_GoodFood.pdb
+c:\users\chosen\documents\visual studio 2015\Projects\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\_2016_jud_GoodFood.autentificareForm.resources
+c:\users\chosen\documents\visual studio 2015\Projects\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\_2016_jud_GoodFood.creareForm.resources
+c:\users\chosen\documents\visual studio 2015\Projects\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\_2016_jud_GoodFood.optiuniForm.resources
+c:\users\chosen\documents\visual studio 2015\Projects\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\2016_jud_GoodFood.csproj.ResolveComReference.cache
+c:\users\chosen\documents\visual studio 2015\Projects\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\_2016_jud_GoodFood.vizualizareForm.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\bin\Debug\2016_jud_GoodFood.exe.config
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\2016_jud_GoodFood.csproj.ResolveComReference.cache
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\2016_jud_GoodFood.exe
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\2016_jud_GoodFood.pdb
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\bin\Debug\GOOD_FOOD.mdf
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\bin\Debug\GOOD_FOOD_log.ldf
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\bin\Debug\2016_jud_GoodFood.exe
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\bin\Debug\2016_jud_GoodFood.pdb
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\2016_jud_GoodFood.csprojResolveAssemblyReference.cache
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\_2016_jud_GoodFood.autentificareForm.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\_2016_jud_GoodFood.creareForm.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\_2016_jud_GoodFood.optiuniForm.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\_2016_jud_GoodFood.startForm.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\_2016_jud_GoodFood.Properties.Resources.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\_2016_jud_GoodFood.vizualizareForm.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\2016_jud_GoodFood.csproj.GenerateResource.Cache
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\bin\Debug\GOOD_FOOD.mdf
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\bin\Debug\GOOD_FOOD_log.ldf
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\bin\Debug\2016_jud_GoodFood.exe.config
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\bin\Debug\2016_jud_GoodFood.exe
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\2016_jud_GoodFood.csprojResolveAssemblyReference.cache
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\2016_jud_GoodFood.csproj.ResolveComReference.cache
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\_2016_jud_GoodFood.autentificareForm.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\_2016_jud_GoodFood.creareForm.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\_2016_jud_GoodFood.optiuniForm.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\_2016_jud_GoodFood.startForm.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\_2016_jud_GoodFood.Properties.Resources.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\_2016_jud_GoodFood.vizualizareForm.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\2016_jud_GoodFood.csproj.GenerateResource.Cache
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\2016_jud_GoodFood.csproj.CoreCompileInputs.cache
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\2016_jud_GoodFood.exe
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\obj\Debug\2016_jud_GoodFood.pdb
+F:\Altele\Scoala\Info\C#\Proiecte C#\2016_jud_GoodFood\2016_jud_GoodFood\bin\Debug\2016_jud_GoodFood.pdb
